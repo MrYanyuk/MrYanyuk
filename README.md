@@ -10,15 +10,6 @@
 - Últimas tendencias en ciberseguridad y hacking ético.
 - Automatización de tareas de seguridad con scripts y herramientas de código abierto.
 
-### 👯 Busco colaborar en...
-- Proyectos de ciberseguridad.
-- Iniciativas de código abierto relacionadas con la seguridad informática.
-- Workshops y conferencias sobre seguridad en IT.
-
-### 🤔 Busco ayuda con...
-- Desafíos complejos de ciberseguridad.
-- Optimización de infraestructuras de red para una mejor seguridad.
-
 ### 💬 Pregúntame sobre...
 - Seguridad en redes y sistemas.
 - Mejores prácticas en ciberseguridad.
