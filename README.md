@@ -25,11 +25,7 @@
 - Configuración y administración de sistemas informáticos en red.
 
 ### 📫 Cómo contactarme...
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil)
-- [Twitter](https://twitter.com/tu-usuario)
-
-### 😄 Pronombres...
-- Él
+- [LinkedIn](https://www.linkedin.com/in/olek-yanyuk-693180238/)
 
 ### ⚡ Dato curioso...
 - Cuando no estoy protegiendo sistemas, me encanta explorar el mundo de la inteligencia artificial y el machine learning.
